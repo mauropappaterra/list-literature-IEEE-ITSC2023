@@ -1,4 +1,4 @@
-# Literature List (IEEE-ITSC2023)
+# Literature List: "A review of intelligent infrastructture surveillance to support safe autonomy in smart-railways" (IEEE-ITSC2023)
 The following tabulated list presents all paper consulted for the publication "A review of intelligent infrastructture surveillance to support safe autonomy in smart-railways".
 
 |Reference no.|Paper Title|Author(s)|
