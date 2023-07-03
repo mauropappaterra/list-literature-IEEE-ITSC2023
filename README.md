@@ -45,13 +45,13 @@ The following tabulated list presents all paper consulted for the publication "A
 |[52]|Intrusion Detection and Tracking at Railway Crossing|Naxin Cai, Houjin Chen, Yanfeng Li, Yahui Peng|
 |[53]|An Efficient Scene Recognition System of Railway Crossing|K. Shimura, Y. Tomioka, Q. Zhao|
 |[54]|Applying deep learning techniques for the prediction of pedestrian behaviour on crossings with countdown signal timers|Marios Fourkiotis, Chrysanthi Kaz|
-|[59]|Facing Erosion Identification in Railway Lines Using Pixel-Wise Deep-Based Approaches|"Nogueira, K.; L. S. Machado, G.; H. T. Gama, P.; C. V. da Silva, C.; Balaniuk, R.; A. dos Santos, J."|
-|[60]|Detecting Embankment Instability Using Measurable Track Geometry Data|"Kite, D.; Siino, G.; Audley, M."|
+|[59]|Facing Erosion Identification in Railway Lines Using Pixel-Wise Deep-Based Approaches|Nogueira, K.; L. S. Machado, G.; H. T. Gama, P.; C. V. da Silva, C.; Balaniuk, R.; A. dos Santos, J.|
+|[60]|Detecting Embankment Instability Using Measurable Track Geometry Data|Kite, D.; Siino, G.; Audley, M.|
 |[61]|Integration of genetic algorithm and support vector machine to predict rail track degradation|A. Falamarzi, S. Moridpour, M. Nazem, and R. Hesami|
-|[62]|A Rail-Temperature-Prediction Model Based on Machine Learning: Warning of Train-Speed Restrictions Using Weather Forecasting|"Hong, S.; Park, C.; Cho, S."|
+|[62]|A Rail-Temperature-Prediction Model Based on Machine Learning: Warning of Train-Speed Restrictions Using Weather Forecasting|Hong, S.; Park, C.; Cho, S.|
 |[63]|Wired Sensors System for Monitoring of Landslide Events|Mirco Muttillo, Gianluca Barile, Alfiero Leoni, and Giuseppe Ferri|
 |[64]|Rock falls impacting railway tracks: Detection analysis through an artificial intelligence camera prototype|A. Fantini, M. Fiorucci, and S. Martino|
-|[65]|Real-Time 3D Multi-Object Detection and Localization Based on Deep Learning for Road and Railway Smart Mobility|"Mauri, A.; Khemmar, R.; Decoux, B.; Haddad, M.; Boutteau, R."|
+|[65]|Real-Time 3D Multi-Object Detection and Localization Based on Deep Learning for Road and Railway Smart Mobility|Mauri, A.; Khemmar, R.; Decoux, B.; Haddad, M.; Boutteau, R.|
 |[66]|Research on risk assessment of CTCS based on fuzzy reasoning and analytic hierarchy process|X. Yingying, L. Chao, and T. Tao|
 |[67]|Research on run-time risk evaluation method based on operating scenario data for autonomous train|Ru Niu, Sifan You|
-|[68]|Utilizing an Adaptive Neuro-Fuzzy Inference System (ANFIS) for Overcrowding Level Risk Assessment in Railway Stations|"Alawad, H.; An, M.; Kaewunruen, S."|
+|[68]|Utilizing an Adaptive Neuro-Fuzzy Inference System (ANFIS) for Overcrowding Level Risk Assessment in Railway Stations|Alawad, H.; An, M.; Kaewunruen, S.|
