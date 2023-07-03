@@ -56,7 +56,7 @@ E = Situational awareness and online risk assesement
 |[55]|Classification of railway level crossing barrier and light signalling system using YOLOv3|2020|Pavel Sikora, Martin Kiac, Malay Kishore Dutta|||X|||
 |[56]|Classification of railway level crossing barrier and light signalling system using YOLOv3|2020|P. Sikora, M. Kiac, M. K. Dutta|||X|||
 |[57]|Real Time Image Classification Based Smart Railway Platform Using Convolutional Neural Network|2020|Shiva Shankar, Mahaveer Penna, Dileep Reddy Bolla, Keshavamurthy, Jijesh J. J., Navyashree H. A.|||X|||
-|[58]|Acoustic-Based Train Arrival Detection Using Convolutional Neural Networks With Attention|2022|V.-T. Tran, W.-H. Tsai|||X|||
+|[58]|Acoustic-Based Train Arrival Detection Using Convolutional Neural Networks With Attention|2022|V. T. Tran, W. H. Tsai|||X|||
 |[59]|Facing Erosion Identification in Railway Lines Using Pixel-Wise Deep-Based Approaches|2020|K. Nogueira, G. L. S. Machado, P. H. T. Gama, C. V. da Silva, R. C. Balaniuk, J. A. dos Santos||||X||
 |[60]|Detecting Embankment Instability Using Measurable Track Geometry Data|2020|D. Kite, G. Siino, M. Audley||||X||
 |[61]|Integration of genetic algorithm and support vector machine to predict rail track degradation|2019|A. Falamarzi, S. Moridpour, M. Nazem, and R. Hesami||||X||
