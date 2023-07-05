@@ -3,7 +3,7 @@ The following tabulated list presents all papers consulted for literature review
 
 ## Railway Applications
 A = Surveillance and online security monitoring  
-B = Detection of obstacles and foreign oobjects in the railway track  
+B = Detection of obstacles and foreign objects in the railway track  
 C = Intrusion and trespassing detection  
 D = Detection of natural threats  
 E = Situational awareness and online risk assesement  
