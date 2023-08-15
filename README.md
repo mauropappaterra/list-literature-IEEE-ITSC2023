@@ -1,6 +1,8 @@
 # Literature list for "A review of intelligent infrastructture surveillance to support safe autonomy in smart-railways" (IEEE-ITSC2023)
 The following tabulated list presents all paper consulted for the publication "A review of intelligent infrastructture surveillance to support safe autonomy in smart-railways".
 
+You can find a CSV and XLSX file with the list of papers in this repository.
+
 ## Railway Applications
 A = Surveillance and online security monitoring  
 B = Detection of obstacles and foreign oobjects in the railway track  
