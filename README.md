@@ -1,4 +1,4 @@
-[PAPER]: https://2023.ieee-itsc.org/](https://ieeexplore.ieee.org/document/10422317
+[PAPER]: https://ieeexplore.ieee.org/document/10422317
 # Literature list for "A review of intelligent infrastructure surveillance to support safe autonomy in smart-railways" (IEEE-ITSC2023)
 The following tabulated list presents all paper consulted for the publication "A review of intelligent infrastructture surveillance to support safe autonomy in smart-railways".
 
