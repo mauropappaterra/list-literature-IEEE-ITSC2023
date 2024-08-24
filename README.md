@@ -18,7 +18,6 @@ C = Intrusion and trespassing detection
 D = Detection of natural threats  
 E = Situational awareness and online risk assesement  
 
-### List of papers
 |Reference no.|Paper Title|Year Published|Author(s)|A|B|C|D|E|
 |-------------|-----------|--------------|---------|-|-|-|-|-|
 |[13]|An intelligent active video surveillance system based on the integration of virtual neural sensors and BDI agents|2008|M. D. Gregorio|X|||||
