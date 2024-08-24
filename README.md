@@ -6,14 +6,19 @@ The following tabulated list presents all paper consulted for the publication "A
 
 You can find a CSV and XLSX file with the list of papers in this repository.
 
-## Railway Applications
+## Abstract
+Since railways are considered among the most critical transportation infrastructures, significant research exists on the use of modern technology for their safety and security. In order to enable full autonomy of railway operations, it is not only important to guarantee safety from the control system perspective, but also to ensure that external threats of both intentional and natural origin are detected automatically. This literature review highlights the potential of Artificial Intelligence (AI) in physical infrastructure security and surveillance of autonomous railway operations. We survey AI applications to identify unauthorized access to restricted areas, as well as intelligent monitoring against natural disasters. We also discuss the use of AI to improve situational awareness, in order to analyze data from various sources to prevent incidents, provide real-time information to decision-makers, and support emergency response. Finally, we highlight the challenges to overcome, including data quality, privacy concerns, regulations, and other technical limitations.
+
+## List of papers
+
+### References
 A = Surveillance and online security monitoring  
 B = Detection of obstacles and foreign oobjects in the railway track  
 C = Intrusion and trespassing detection  
 D = Detection of natural threats  
 E = Situational awareness and online risk assesement  
 
-## List of papers
+### List of papers
 |Reference no.|Paper Title|Year Published|Author(s)|A|B|C|D|E|
 |-------------|-----------|--------------|---------|-|-|-|-|-|
 |[13]|An intelligent active video surveillance system based on the integration of virtual neural sensors and BDI agents|2008|M. D. Gregorio|X|||||
