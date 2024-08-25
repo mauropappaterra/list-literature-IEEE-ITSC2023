@@ -12,6 +12,8 @@ This repository contains a tabulated list with all papers consulted for the publ
 ## Abstract
 Since railways are considered among the most critical transportation infrastructures, significant research exists on the use of modern technology for their safety and security. In order to enable full autonomy of railway operations, it is not only important to guarantee safety from the control system perspective, but also to ensure that external threats of both intentional and natural origin are detected automatically. This literature review highlights the potential of Artificial Intelligence (AI) in physical infrastructure security and surveillance of autonomous railway operations. We survey AI applications to identify unauthorized access to restricted areas, as well as intelligent monitoring against natural disasters. We also discuss the use of AI to improve situational awareness, in order to analyze data from various sources to prevent incidents, provide real-time information to decision-makers, and support emergency response. Finally, we highlight the challenges to overcome, including data quality, privacy concerns, regulations, and other technical limitations.
 
+[Read publication on IEEEXplore][PAPER]
+
 ## List of papers
 The following tabulated list presents all paper consulted for the publication "A review of intelligent infrastructture surveillance to support safe autonomy in smart-railways". 
 
