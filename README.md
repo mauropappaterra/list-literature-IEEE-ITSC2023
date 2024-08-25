@@ -4,7 +4,7 @@
 This repository contains a tabulated list with all papers consulted for the publication "A review of intelligent infrastructture surveillance to support safe autonomy in smart-railways" which was presented at the <i>International Conference on Intelligent Transportation</i> (ICTS) 2023 in Bilbao, Spain; and published by IEEE in February 2023. 
 
 - Read this publication. Click on [this link][PAPER] to read the publication on the IEEEXplore website.
-- You can find a CSV and XLSX file with the list of papers in this repository.
+- You can find a CSV and XLSX extension files with the list of papers in this repository.
 - Citations. Use the following text if you want to cite this publication:  
 > [#] Mauro José Pappaterra, Francesco Flammini "A Review of Intelligent Infrastructure Surveillance to Support Safe Autonomy in Smart-Railways", 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023, pp. 5603-5610, doi: 10.1109/ITSC57777.2023.10422317.
 - You can follow me on all of [my academic profiles][LINKTREE] for future updates and more work related to this publication.
