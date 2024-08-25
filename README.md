@@ -1,20 +1,19 @@
 [PAPER]: https://ieeexplore.ieee.org/document/10422317
 [LINKTREE]: https://linktr.ee/pappaterra
 # Literature list for "A review of intelligent infrastructure surveillance to support safe autonomy in smart-railways" (IEEE-ITSC2023)
-The following tabulated list presents all paper consulted for the publication "A review of intelligent infrastructture surveillance to support safe autonomy in smart-railways".You can find a CSV and XLSX file with the list of papers in this repository. 
+This repository contains a tabulated list with all papers consulted in the publication "A review of intelligent infrastructture surveillance to support safe autonomy in smart-railways" which was presented at the <i>International Conference on Intelligent Transportation</i> (ICTS) 2023 in Bilbao, Spain; and published by IEEE in February 2023. 
 
-- [Click here][PAPER] to view the publication in IEEEXplore website.
-- Follow me on [my academic profiles][LINKTREE] for future updates and related work.
-
-## Citation
-Use the following text if you want to cite this publication:  
-
+- Read this publication. Click on [this link][PAPER] to read the publication on the IEEEXplore website.
+- You can find a CSV and XLSX file with the list of papers in this repository.
+- Citations. Use the following text if you want to cite this publication:  
 > [#] Mauro José Pappaterra, Francesco Flammini "A Review of Intelligent Infrastructure Surveillance to Support Safe Autonomy in Smart-Railways", 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023, pp. 5603-5610, doi: 10.1109/ITSC57777.2023.10422317.
+- You can follow me on all of [my academic profiles][LINKTREE] for future updates and more work related to this publication.
 
 ## Abstract
 Since railways are considered among the most critical transportation infrastructures, significant research exists on the use of modern technology for their safety and security. In order to enable full autonomy of railway operations, it is not only important to guarantee safety from the control system perspective, but also to ensure that external threats of both intentional and natural origin are detected automatically. This literature review highlights the potential of Artificial Intelligence (AI) in physical infrastructure security and surveillance of autonomous railway operations. We survey AI applications to identify unauthorized access to restricted areas, as well as intelligent monitoring against natural disasters. We also discuss the use of AI to improve situational awareness, in order to analyze data from various sources to prevent incidents, provide real-time information to decision-makers, and support emergency response. Finally, we highlight the challenges to overcome, including data quality, privacy concerns, regulations, and other technical limitations.
 
 ## List of papers
+The following tabulated list presents all paper consulted for the publication "A review of intelligent infrastructture surveillance to support safe autonomy in smart-railways". 
 
 ### References
 A = Surveillance and online security monitoring  
