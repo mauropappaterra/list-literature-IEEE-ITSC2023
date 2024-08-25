@@ -1,7 +1,7 @@
 [PAPER]: https://ieeexplore.ieee.org/document/10422317
 [LINKTREE]: https://linktr.ee/pappaterra
 # Literature list for "A review of intelligent infrastructure surveillance to support safe autonomy in smart-railways" (IEEE-ITSC2023)
-This repository contains a tabulated list with all papers consulted in the publication "A review of intelligent infrastructture surveillance to support safe autonomy in smart-railways" which was presented at the <i>International Conference on Intelligent Transportation</i> (ICTS) 2023 in Bilbao, Spain; and published by IEEE in February 2023. 
+This repository contains a tabulated list with all papers consulted for the publication "A review of intelligent infrastructture surveillance to support safe autonomy in smart-railways" which was presented at the <i>International Conference on Intelligent Transportation</i> (ICTS) 2023 in Bilbao, Spain; and published by IEEE in February 2023. 
 
 - Read this publication. Click on [this link][PAPER] to read the publication on the IEEEXplore website.
 - You can find a CSV and XLSX file with the list of papers in this repository.
